@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akshay655-max.github.io/csb-u6ssji/static/css/main.a01eb4b5.chunk.css",
+    "main.js": "https://akshay655-max.github.io/csb-u6ssji/static/js/main.9dca785a.chunk.js",
+    "main.js.map": "https://akshay655-max.github.io/csb-u6ssji/static/js/main.9dca785a.chunk.js.map",
+    "runtime-main.js": "https://akshay655-max.github.io/csb-u6ssji/static/js/runtime-main.668fe4ae.js",
+    "runtime-main.js.map": "https://akshay655-max.github.io/csb-u6ssji/static/js/runtime-main.668fe4ae.js.map",
+    "static/js/2.7decae3c.chunk.js": "https://akshay655-max.github.io/csb-u6ssji/static/js/2.7decae3c.chunk.js",
+    "static/js/2.7decae3c.chunk.js.map": "https://akshay655-max.github.io/csb-u6ssji/static/js/2.7decae3c.chunk.js.map",
+    "index.html": "https://akshay655-max.github.io/csb-u6ssji/index.html",
+    "static/css/main.a01eb4b5.chunk.css.map": "https://akshay655-max.github.io/csb-u6ssji/static/css/main.a01eb4b5.chunk.css.map",
+    "static/js/2.7decae3c.chunk.js.LICENSE.txt": "https://akshay655-max.github.io/csb-u6ssji/static/js/2.7decae3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.668fe4ae.js",
+    "static/js/2.7decae3c.chunk.js",
+    "static/css/main.a01eb4b5.chunk.css",
+    "static/js/main.9dca785a.chunk.js"
+  ]
+}
